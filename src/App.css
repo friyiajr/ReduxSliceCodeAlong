@@ -24,6 +24,19 @@
   color: white;
 }
 
+.pokemon-content {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.pokemon-image {
+  height: 250px;
+}
+
 .App-link {
   color: #61dafb;
 }
